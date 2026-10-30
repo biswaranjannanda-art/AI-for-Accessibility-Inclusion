@@ -1,0 +1,6 @@
+{
+  "name": "ResearchPulse AI",
+  "description": "Enterprise Knowledge Discovery & Research Synthesis System powered by Google Gemini, vector retrieval, and structured academic extractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
